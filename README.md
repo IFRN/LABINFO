@@ -10,12 +10,4 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
     + Disciplinas de TADS: PC, PLP
      
 
-## Disciplinas
 
-###TADS
-
-|Sigla|Nome|
-|-----|----|
-|PC   |Programação de Computadores|
-|PLP  |Paradigmas de Linguagens de Programação|
-|DSW  |Desenvolvimento de Sistemas Web|
