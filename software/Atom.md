@@ -10,3 +10,10 @@ sudo apt-get install atom
 ## Instalaço no Windows
 
 http://atom.io
+
+## Plugins
+
+### Pacotes
+  
+  [x] Potigol-language
+  
