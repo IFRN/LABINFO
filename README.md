@@ -6,16 +6,23 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
 ## Software
 
   + [ANTLR](/software/Antlr.md)
-    + Disciplinas de TADS: PLP
+    + Disciplinas de TADS: _PLP_
 
   + [Atom](/software/Atom.md)
-    + Disciplinas de TADS: PC, PLP
+    + Disciplinas de TADS: _PC, PLP_
 
   + [Eclipse Neon](/software/Eclipse.md)
-    + Disciplinas de TADS: PC, PLP
+    + Disciplinas de TADS: _PC, PLP_
  
   + [Java JDK 8](/software/Java8.md)
-    + Discipinas de TADS: PC, PLP
+    + Discipinas de TADS: _PC, PLP_
   
   + [Potigol](/software/Potigol.md)
-    + Disciplinas de TADS: PC
+    + Disciplinas de TADS: _PC_
+
+  + [Ruby](/software/Ruby.md)
+    + Disciplinas de TADS: _PC_
+    
+  + [Scala](/software/Scala.md)
+    + Disciplinas de TADS: _PLP_
+
