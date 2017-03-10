@@ -11,3 +11,6 @@ sudo gem update
 sudo gem install gosu
 ````
 
+## No Windows
+
+https://rubyinstaller.org/
