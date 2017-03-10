@@ -15,5 +15,5 @@ http://atom.io
 
 ### Pacotes
   
-  [x] Potigol-language
+  - Potigol-language
   
