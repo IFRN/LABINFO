@@ -17,7 +17,7 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
   + [Java JDK 8](/software/Java8.md)
     + Discipinas de TADS: _PC, PLP_
   
-  + [Potigol](/software/Potigol.md)
+  + [Potigol](https://github.com/potigol/potigol)
     + Disciplinas de TADS: _PC_
 
   + [Ruby](/software/Ruby.md)
