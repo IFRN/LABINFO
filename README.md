@@ -26,7 +26,7 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
   + [Atom](/software/Atom.md)
     + Disciplinas de TADS: _PC, PLP_
 
-  + [Eclipse Neon](/software/Eclipse.md)
+  + [Eclipse Neon](http://ubuntuhandbook.org/index.php/2016/01/how-to-install-the-latest-eclipse-in-ubuntu-16-04-15-10/)
     + Disciplinas de TADS: _PC, PLP_
      
   + [JCEditor](https://github.com/cristian-henrique/JCEditor)
