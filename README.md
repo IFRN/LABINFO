@@ -31,6 +31,10 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
      
   + [JCEditor](https://github.com/cristian-henrique/JCEditor)
     + Discipinas de TADS:  *PC*
+    
+  + [SublimeText3](/software/SublimeText3.md)
+    
+    
   
 
 ## Outros
