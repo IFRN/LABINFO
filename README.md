@@ -12,6 +12,9 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
   + [Potigol](https://github.com/potigol/potigol)
     + Disciplinas de TADS: _PC_
 
+  + [Python](/software/Python.md)
+    + Disciplinas de TADS: _PC_
+
   + [Ruby](/software/Ruby.md)
     + Disciplinas de TADS: _PC_
     
