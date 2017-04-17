@@ -41,4 +41,7 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
 
   + [ANTLR](/software/Antlr.md)
     + Disciplinas de TADS: *PLP*
+    
+  + [SBT](/software/sbt.md)
+    + Disciplinas de TADS: *PLP*
 
