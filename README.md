@@ -18,7 +18,7 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
   + [Ruby](/software/Ruby.md)
     + Disciplinas de TADS: _PC_
     
-  + [Scala](/software/Scala.md)
+  + [Scala](https://www.scala-lang.org/download/install.html)
     + Disciplinas de TADS: _PLP_
 
 ## Editores
