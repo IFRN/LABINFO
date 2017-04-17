@@ -2,8 +2,10 @@
 
 ## Instalação no Linux
 
+````bash
 sudo add-apt-repository ppa:webupd8team/sublime-text-3
 sudo apt-get update
+````
 
 ## Instalação no Windows
 
