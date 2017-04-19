@@ -17,6 +17,7 @@ echo "Type=Application" | sudo tee -a potigol_lancador.desktop
 echo "Exec=java -jar /usr/local/lib/potigol/epotigol.jar" | sudo tee -a potigol_lancador.desktop
 echo "Icon=/usr/local/lib/potigol/potigol.png" | sudo tee -a potigol_lancador.desktop
 sudo chmod +x potigol_lancador.desktop
+sudo cp potigol_lancador.desktop /usr/share/applications/.
 # Configurar bash
 echo "alias potigol='java -jar /usr/local/lib/potigol/potigol.jar'" | sudo tee -a /etc/bash.bashrc
 echo "alias epotigol='java -jar /usr/local/lib/potigol/epotigol.jar'" | sudo tee -a /etc/bash.bashrc
@@ -37,6 +38,7 @@ sudo apt-get install oracle-java8-installer -y
 sudo add-apt-repository ppa:webupd8team/atom -y
 sudo apt-get update
 sudo apt-get install atom -y
+sudo cp /usr/share/applications/atom.desktop /home/aluno/Área\ de\ Trabalho
 
 # Python
 sudo add-apt-repository ppa:jonathonf/python-3.6 -y
