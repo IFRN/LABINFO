@@ -38,6 +38,11 @@ sudo add-apt-repository ppa:webupd8team/atom -y
 sudo apt-get update
 sudo apt-get install atom -y
 
+# Python
+sudo add-apt-repository ppa:jonathonf/python-3.6 -y
+sudo apt-get update
+sudo apt-get install python3.6 -y
+
 # Ruby + Gosu
 sudo add-apt-repository ppa:brightbox/ruby-ng -y
 sudo apt-get update
@@ -46,4 +51,3 @@ sudo gem update
 sudo gem install gosu
 sudo gem2.3 update
 sudo gem2.3 install gosu
-
