@@ -39,9 +39,9 @@ sudo apt-get update
 sudo apt-get install atom -y
 
 # Ruby + Gosu
-sudo add-apt-repository ppa:brightbox/ruby-ng
+sudo add-apt-repository ppa:brightbox/ruby-ng -y
 sudo apt-get update
-sudo apt-get install ruby2.3
+sudo apt-get install ruby2.3 -y
 sudo gem update
 sudo gem install gosu
 sudo gem2.3 update
