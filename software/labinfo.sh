@@ -1,3 +1,4 @@
+#!/bin/bash
 
 # Potigol
 mkdir potigol
