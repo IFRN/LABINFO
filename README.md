@@ -3,6 +3,7 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
 
 [Disciplinas](/disciplinas.md)
 
+[Script de Configuração](/software/labinfo.sh)
 
 ## Linguagens
 
