@@ -7,24 +7,13 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
 
 ## Linguagens
 
-Software | TADS | TII | TRC | TMC
---- | --- | --- | --- | ---
-Java JDK 8 | _PC, PLP_ | | |
-
-  + [Java JDK 8](/software/Java8.md)
-    + Discipinas de TADS: _PC, PLP_
-
-  + [Potigol](https://github.com/potigol/potigol)
-    + Disciplinas de TADS: _PC_
-
-  + [Python](/software/Python.md)
-    + Disciplinas de TADS: _PC_
-
-  + [Ruby](/software/Ruby.md)
-    + Disciplinas de TADS: _PC_
-    
-  + [Scala](https://www.scala-lang.org/download/install.html)
-    + Disciplinas de TADS: _PLP_
+Software                                      | TADS      | TII | TRC | TMC
+---                                           | ---       | --- | --- | ---
+[Java JDK 8](/software/Java8.md)              | _PC, PLP_ |     |     |
+[Potigol](https://github.com/potigol/potigol) |  _PC_     |     |     |
+[Python](/software/Python.md)                 |  _PC_     |     |     |
+[Ruby](/software/Ruby.md)                     |  _PC_     |     |     |
+[Scala](https://www.scala-lang.org/download/install.html) |  _PLP_     |     |     |
 
 ## Editores
 
