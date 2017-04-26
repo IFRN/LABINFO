@@ -17,8 +17,6 @@ Software                                      | TADS      | TII | TRC | TMC
 
 ## Editores
 
-Software                            | Curso |||
----                                           | ---       | --- | --- | ---
 Software                                      | TADS      | TII | TRC | TMC
 ---                                           | ---       | --- | --- | ---
 [Atom](/software/Atom.md)                     | _PC, PLP_ |     |     |     
@@ -28,9 +26,8 @@ Software                                      | TADS      | TII | TRC | TMC
 
 ## Outros
 
-  + [ANTLR](/software/Antlr.md)
-    + Disciplinas de TADS: *PLP*
-    
-  + [SBT](/software/sbt.md)
-    + Disciplinas de TADS: *PLP*
+Software                                      | TADS      | TII | TRC | TMC
+---                                           | ---       | --- | --- | ---
+[ANTLR](/software/Antlr.md)                   | *PLP*     |     |     |
+[SBT](/software/sbt.md)                       | *PLP*     |     |     |
 
