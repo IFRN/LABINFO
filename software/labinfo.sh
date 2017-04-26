@@ -64,5 +64,5 @@ sudo apt-get install sbt
 # Atualizacao dos pacotes ja instalados
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get auto-remove
-sudo apt-get auto-clean
+sudo apt-get autoremove
+sudo apt-get autoclean
