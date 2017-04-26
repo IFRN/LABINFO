@@ -7,6 +7,10 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
 
 ## Linguagens
 
+Software | TADS | TII | TRC | TMC
+--- | --- | --- | --- | ---
+Java JDK 8 | _PC, PLP_ | | |
+
   + [Java JDK 8](/software/Java8.md)
     + Discipinas de TADS: _PC, PLP_
 
