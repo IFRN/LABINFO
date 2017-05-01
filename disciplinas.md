@@ -14,3 +14,19 @@
 |POO  | Programação Orientada a Objetos                         |
 |SD   | Sistemas Digitais                                       |
 |WD   | Web Design                                              |
+
+## TII
+
+|Sigla|Nome                                                     |
+|-----|---------------------------------------------------------|
+|FLC  | Fundamentos de Lógica e Algoritmos                      |
+|PDP  | Princípios de Design e Projeto Gráfico                  |
+|DWA  | Design Web e Arquitetura da Informação                  |
+|PEOO | Programação Estruturada e Orientada a Objetos           |
+|APOO | Análise e Projeto Orientado a Objetos                   |
+|BD   | Banco de Dados                                          |
+|ICS  | Instalação e Configuração de Servidores                 |
+|PSI  | Programação de Sistemas para Internet                   |
+|POS  | Programação Orientada a Serviços                        |
+|PDSI | Projeto de Desenvolvimento de Sistemas para Internet    |
+|PIU  | Projeto de Interface do Usuário                         |
