@@ -27,6 +27,7 @@
 |BD   | Banco de Dados                                          |
 |ICS  | Instalação e Configuração de Servidores                 |
 |PSI  | Programação de Sistemas para Internet                   |
+|PI   | Projeto Integrador                                      |
 |POS  | Programação Orientada a Serviços                        |
 |PDSI | Projeto de Desenvolvimento de Sistemas para Internet    |
 |PIU  | Projeto de Interface do Usuário                         |
