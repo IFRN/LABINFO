@@ -11,7 +11,7 @@ Software                                      | TADS      | TII | TRC | TMC
 ---                                           | ---       | --- | --- | ---
 [Java JDK 8](/software/Java8.md)              | *PC, PLP, SD, AC, AS, EDNL, APOO* |     |     |
 [Potigol](https://github.com/potigol/potigol) |  *PC*     |     |     |
-[Python](/software/Python.md)                 |  *PC*     |     |     |
+[Python](/software/Python.md)                 |  *PC*     |     |  PC, PRC |
 [Ruby](/software/Ruby.md)                     |  *PC*     |     |     |
 [Scala](https://www.scala-lang.org/download/install.html) |  *PLP*    |     |     |
 
@@ -19,7 +19,7 @@ Software                                      | TADS      | TII | TRC | TMC
 
 Software                                      | TADS      | TII | TRC | TMC
 ---                                           | ---       | --- | --- | ---
-[Atom](/software/Atom.md)                     | _PC, PLP_ | _DWA_ |     |     
+[Atom](/software/Atom.md)                     | _PC, PLP_ | _DWA_ | PC, PRC |     
 [Eclipse Neon](http://ubuntuhandbook.org/index.php/2016/01/how-to-install-the-latest-eclipse-in-ubuntu-16-04-15-10/) | _PC, PLP, APOO_ | | |
 [JCEditor](https://github.com/cristian-henrique/JCEditor) | *PC* |    | | 
 [SublimeText3](/software/SublimeText3.md)     | WD        | _DWA_ |    |    |
@@ -33,7 +33,12 @@ Visual Studio 2012                            |           | _PSI_  |    |    |
 
 Software                                      | TADS      | TII | TRC | TMC
 ---                                           | ---       | --- | --- | ---
-[ANTLR](/software/Antlr.md)                   | *PLP*     |     |     |
+Git                                           |       |     |  PC, PRC |
+Pip                                           |       |     |  PC, PRC |
+htop                                           |       |     |  PC, PRC |
+wireshark (com permissão leitura interface)                                          |       |     |  PC, PRC |
+tcpdump                                          |       |     |  PC, PRC |
+[ANTLR](/software/Antlr.md)                   | *PLP*     |     |     |
 [SBT](/software/sbt.md)                       | *PLP*     |     |     |
 [Astah Community Edition](http://astah.net/com-announcement) | *APOO*  | *APOO*  |     |
 Softwares de edição gráfica da Adobe          |           | _FLC_, _PIU_ |    |    |
