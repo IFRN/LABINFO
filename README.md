@@ -7,7 +7,7 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
 
 ## Linguagens
 
-Software                                      | TADS      | TII | TRC | TMC
+Software                                      | TADS      | TII | TRC | TMSI
 ---                                           | ---       | --- | --- | ---
 [Java JDK 8](/software/Java8.md)              | *PC, PLP, SD, AC, AS, EDNL, APOO* |     |     |
 [Potigol](https://github.com/potigol/potigol) |  *PC*     |     |     |
@@ -17,7 +17,7 @@ Software                                      | TADS      | TII | TRC | TMC
 
 ## Editores
 
-Software                                      | TADS      | TII | TRC | TMC
+Software                                      | TADS      | TII | TRC | TMSI
 ---                                           | ---       | --- | --- | ---
 [Atom](/software/Atom.md)                     | _PC, PLP_ | _DWA_ | PC, PRC |     
 [Eclipse Neon](http://ubuntuhandbook.org/index.php/2016/01/how-to-install-the-latest-eclipse-in-ubuntu-16-04-15-10/) | _PC, PLP, APOO_ | | |
@@ -31,13 +31,13 @@ Visual Studio 2012                            |           | _PSI_  |    |    |
 
 ## Outros
 
-Software                                      | TADS      | TII | TRC | TMC
----                                           | ---       | --- | --- | ---
-Git                                           |       |     |  PC, PRC |
-Pip                                           |       |     |  PC, PRC |
-htop                                           |       |     |  PC, PRC |
-wireshark (com permissão leitura interface)                                          |       |     |  PC, PRC |
-tcpdump                                          |       |     |  PC, PRC |
+Software                                      | TADS      | TII | TRC      | TMSI
+---                                           | ---       | --- | ---      | ---
+Git                                           | PC        |     |  PC, PRC |
+Pip                                           |           |     |  PC, PRC |
+htop                                          |           |     |  PC, PRC |
+wireshark (com permissão leitura interface)   |           |     |  PC, PRC |
+tcpdump                                       |           |     |  PC, PRC |
 [ANTLR](/software/Antlr.md)                   | *PLP*     |     |     |
 [SBT](/software/sbt.md)                       | *PLP*     |     |     |
 [Astah Community Edition](http://astah.net/com-announcement) | *APOO*  | *APOO*  |     |
