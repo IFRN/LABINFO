@@ -39,6 +39,8 @@ sudo apt-get install oracle-java8-installer -y
 sudo add-apt-repository ppa:webupd8team/atom -y
 sudo apt-get update
 sudo apt-get install atom -y
+apm install language-potigol
+apm install language-scala
 sudo cp /usr/share/applications/atom.desktop /home/aluno/Área\ de\ Trabalho
 
 # Python
@@ -64,5 +66,6 @@ sudo apt-get install sbt
 # Atualizacao dos pacotes ja instalados
 sudo apt-get update
 sudo apt-get upgrade
+sudo apt-get dist-upgrade
 sudo apt-get autoremove
 sudo apt-get autoclean
