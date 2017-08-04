@@ -1,6 +1,6 @@
 # Java 8 JDK
 
-  + Versão mínima: JDK 1.8.0_121
+  + Versão mínima: JDK 1.8.0_144
 
 ## Instalação no Linux
 
@@ -20,12 +20,12 @@ sudo apt-get install oracle-java8-installer
 
   - Digitando `java -version` na linha de comando, a resposta de ser:
     ````
-    java version "1.8.0_121"
+    java version "1.8.0_144"
     Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
     Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
     ````
     
   - Digitando `javac -version` na linha de comando, a resposta de ser:
     ````
-    java version "1.8.0_121"
+    java version "1.8.0_144"
     ````
