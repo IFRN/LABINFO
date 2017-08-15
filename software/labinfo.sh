@@ -3,7 +3,7 @@
 # Potigol
 sudo mkdir potigol
 cd potigol
-sudo wget https://github.com/potigol/Potigol/releases/download/0.9.11/potigol0911.zip
+sudo wget https://github.com/potigol/Potigol/releases/download/0.9.12/potigol.zip
 sudo wget https://github.com/potigol/Potigol/releases/download/0.9.10/potigol.png
 sudo unzip *.zip
 sudo rm *.zip
