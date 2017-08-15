@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Potigol
-mkdir potigol
+sudo mkdir potigol
 cd potigol
-wget https://github.com/potigol/Potigol/releases/download/0.9.11/potigol0911.zip
-wget https://github.com/potigol/Potigol/releases/download/0.9.10/potigol.png
-unzip *.zip
-rm *.zip
+sudo wget https://github.com/potigol/Potigol/releases/download/0.9.11/potigol0911.zip
+sudo wget https://github.com/potigol/Potigol/releases/download/0.9.10/potigol.png
+sudo unzip *.zip
+sudo rm *.zip
 cd ..
 sudo mv potigol /usr/local/lib/.
 # Criar Atalho
@@ -38,9 +38,8 @@ sudo apt-get install oracle-java8-installer -y
 # Atom
 sudo add-apt-repository ppa:webupd8team/atom -y
 sudo apt-get update
-sudo apt-get install atom -y
-apm install language-potigol
-apm install language-scala
+sudo -l -u aluno apm install language-potigol
+sudo -l -u aluno apm install language-scala
 sudo cp /usr/share/applications/atom.desktop /home/aluno/Área\ de\ Trabalho
 
 # Python
