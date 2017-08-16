@@ -38,6 +38,7 @@ sudo apt-get install oracle-java8-installer -y
 # Atom
 sudo add-apt-repository ppa:webupd8team/atom -y
 sudo apt-get update
+sudo apt-get install atom
 sudo -l -u aluno apm install language-potigol
 sudo -l -u aluno apm install language-scala
 sudo cp /usr/share/applications/atom.desktop /home/aluno/Área\ de\ Trabalho
