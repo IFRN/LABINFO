@@ -26,7 +26,8 @@ Software                                      | TADS      | TII | TRC | TMSI
 VisualG                                       |           | _FLC_ |    |    |
 DevPascal                                     |           | _FLC_ |    |    |
 Visual Studio 2015 Community Update 3 (Full Install)   |    | _PEOO_, _PI_ |    |    |
-Dev C++ 5.11                                  |           | _PEOO_ |    |    |
+Dev C++ 5.11                                  | PC        | _PEOO_ |    |    |
+Code Blocks                                   | PC        |        |    |    |
 Visual Studio 2012                            |           | _PSI_  |    |    |
 
 ## Outros
