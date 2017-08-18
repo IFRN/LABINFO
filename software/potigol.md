@@ -2,8 +2,7 @@
 
 ## Para instalar
 
-````
-# Potigol
+````bash
 sudo mkdir potigol
 cd potigol
 sudo wget https://github.com/potigol/Potigol/releases/download/0.9.12/potigol.zip
@@ -28,7 +27,8 @@ echo "alias epotigol='java -jar /usr/local/lib/potigol/epotigol.jar'" | sudo tee
 ````
 
 ## Para atualizar
-````
+
+````bash
 sudo mkdir potigol
 cd potigol
 sudo wget https://github.com/potigol/Potigol/releases/download/0.9.12/potigol.zip
