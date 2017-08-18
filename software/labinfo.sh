@@ -70,10 +70,16 @@ sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 2EE0EA64E40A89
 sudo apt-get update
 sudo apt-get install sbt
 
-#Code Blocks
+# Code Blocks
 sudo add-apt-repository ppa:damien-moore/codeblocks-stable
 sudo apt-get update
 sudo apt-get install codeblocks
+
+# Brave
+curl https://s3-us-west-2.amazonaws.com/brave-apt/keys.asc | sudo apt-key add -
+echo "deb [arch=amd64] https://s3-us-west-2.amazonaws.com/brave-apt `lsb_release -sc` main" | sudo tee -a /etc/apt/sources.list.d/brave-`lsb_release -sc`.list
+sudo apt update
+sudo apt install brave
 
 # Atualizacao dos pacotes ja instalados
 sudo apt-get update
