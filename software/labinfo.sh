@@ -41,6 +41,7 @@ sudo apt-get update
 sudo apt-get install atom
 sudo -l -u aluno apm install language-potigol
 sudo -l -u aluno apm install language-scala
+sudo chmod +x /usr/share/applications/atom.desktop
 sudo cp /usr/share/applications/atom.desktop /home/aluno/Área\ de\ Trabalho
 
 # Python
