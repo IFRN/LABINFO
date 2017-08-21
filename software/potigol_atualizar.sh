@@ -1,5 +1,4 @@
 # Atualização do Potigol
-su dgti
 sudo mkdir potigol
 cd potigol
 sudo wget https://github.com/potigol/Potigol/releases/download/0.9.12/potigol.zip
