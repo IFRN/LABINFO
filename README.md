@@ -20,7 +20,7 @@ Software                                      | TADS      | TII | TRC | TMSI
 Software                                      | TADS      | TII | TRC | TMSI
 ---                                           | ---       | --- | --- | ---
 [Atom](/software/Atom.md)                     | _PC, PLP_ | _DWA_ | PC, PRC |     
-[Eclipse Neon](http://ubuntuhandbook.org/index.php/2016/01/how-to-install-the-latest-eclipse-in-ubuntu-16-04-15-10/) | _PC, PLP, APOO_ | | |
+[Eclipse Oxygen](http://ubuntuhandbook.org/index.php/2016/01/how-to-install-the-latest-eclipse-in-ubuntu-16-04-15-10/) | _PC, PLP, APOO_ | | |
 [JCEditor](https://github.com/cristian-henrique/JCEditor) | *PC* |    | | 
 [SublimeText3](/software/SublimeText3.md)     | WD        | _DWA_ |    |    |
 VisualG                                       |           | _FLC_ |    |    |
