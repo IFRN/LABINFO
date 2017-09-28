@@ -55,8 +55,8 @@ sudo apt-get update
 sudo apt-get install ruby2.3 -y
 sudo gem update
 sudo gem install gosu
-sudo gem2.3 update
-sudo gem2.3 install gosu
+sudo gem2.5 update
+sudo gem2.5 install gosu
 
 # Scala
 sudo apt-get remove scala-library scala
