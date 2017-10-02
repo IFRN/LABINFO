@@ -13,6 +13,8 @@
 |PLP  | Paradigmas de Linguagens de Programação                 |
 |POO  | Programação Orientada a Objetos                         |
 |SD   | Sistemas Digitais                                       |
+|SO   | Sistemas Operacionais                                   |
+|TSW  | Teste de software                                       |
 |WD   | Web Design                                              |
 
 ## TII
