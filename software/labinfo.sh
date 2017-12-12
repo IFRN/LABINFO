@@ -1,13 +1,16 @@
 #!/bin/bash
 
 # Potigol
+rm -r ./potigol
 sudo mkdir potigol
 cd potigol
-sudo wget https://github.com/potigol/Potigol/releases/download/0.9.13/potigol.zip
-sudo wget https://github.com/potigol/Potigol/releases/download/0.9.10/potigol.png
+sudo wget https://github.com/potigol/Potigol/releases/download/0.9.14/potigol.zip
+sudo rm potigol.png
+sudo wget https://github.com/potigol/Potigol/releases/download/0.9.14/potigol.png
 sudo unzip -o *.zip
 sudo rm *.zip
 cd ..
+sudo rm -r /usr/local/lib/potigol
 sudo mv potigol /usr/local/lib/.
 # Criar Atalho
 cd /home/aluno/Área\ de\ Trabalho
