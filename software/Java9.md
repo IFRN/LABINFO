@@ -1,6 +1,6 @@
 # Java 8 JDK
 
-  + Versão mínima: JDK 1.8.0_144
+  + Versão mínima: JDK 9.0.1
 
 ## Instalação no Linux
 
@@ -8,7 +8,7 @@ Referência [http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-
 ````
 sudo add-apt-repository ppa:webupd8team/java
 sudo apt-get update
-sudo apt-get install oracle-java8-installer
+sudo apt-get install oracle-java9-installer
 ````
 
 
@@ -20,12 +20,12 @@ sudo apt-get install oracle-java8-installer
 
   - Digitando `java -version` na linha de comando, a resposta de ser:
     ````
-    java version "1.8.0_144"
-    Java(TM) SE Runtime Environment (build 1.8.0_121-b13)
-    Java HotSpot(TM) 64-Bit Server VM (build 25.121-b13, mixed mode)
+    java version "9.0.1"
+    Java(TM) SE Runtime Environment (build 9.0.1+11)
+    Java HotSpot(TM) 64-Bit Server VM (build 9.0.1+11, mixed mode)
     ````
     
   - Digitando `javac -version` na linha de comando, a resposta de ser:
     ````
-    java version "1.8.0_144"
+    javac "9.0.1"
     ````
