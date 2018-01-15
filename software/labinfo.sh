@@ -33,10 +33,10 @@ echo "export CLASSPATH='.:/usr/local/lib/antlr-4.7.1-complete.jar:$CLASSPATH'" |
 echo "alias antlr4='java -jar /usr/local/lib/antlr-4.7.1-complete.jar'"  | sudo tee -a /etc/bash.bashrc
 echo "alias grun='java org.antlr.v4.gui.TestRig'" | sudo tee -a /etc/bash.bashrc
 
-# Java 8
+# Java 9
 sudo add-apt-repository ppa:webupd8team/java -y
 sudo apt-get update
-sudo apt-get install oracle-java8-installer -y
+sudo apt-get install oracle-java9-installer -y
 
 # Atom
 sudo add-apt-repository ppa:webupd8team/atom -y
