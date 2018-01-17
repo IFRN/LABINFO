@@ -1,6 +1,6 @@
 # Java 9 JDK
 
-  + Versão mínima: JDK 9.0.1
+  + Versão mínima: JDK 9.0.4
 
 ## Instalação no Linux
 
@@ -20,12 +20,12 @@ sudo apt-get install oracle-java9-installer
 
   - Digitando `java -version` na linha de comando, a resposta de ser:
     ````
-    java version "9.0.1"
-    Java(TM) SE Runtime Environment (build 9.0.1+11)
-    Java HotSpot(TM) 64-Bit Server VM (build 9.0.1+11, mixed mode)
+    java version "9.0.4"
+    Java(TM) SE Runtime Environment (build 9.0.4+11)
+    Java HotSpot(TM) 64-Bit Server VM (build 9.0.4+11, mixed mode)
     ````
     
   - Digitando `javac -version` na linha de comando, a resposta de ser:
     ````
-    javac "9.0.1"
+    javac "9.0.4"
     ````
