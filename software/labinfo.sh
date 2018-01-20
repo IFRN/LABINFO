@@ -4,7 +4,7 @@
 rm -r ./potigol
 sudo mkdir potigol
 cd potigol
-sudo wget https://github.com/potigol/Potigol/releases/download/0.9.14/potigol.zip
+sudo wget https://github.com/potigol/Potigol/releases/download/0.9.15/potigol.zip
 sudo rm potigol.png
 sudo wget https://github.com/potigol/Potigol/releases/download/0.9.14/potigol.png
 sudo unzip -o *.zip
