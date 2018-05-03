@@ -33,10 +33,10 @@ echo "export CLASSPATH='.:/usr/local/lib/antlr-4.7.1-complete.jar:$CLASSPATH'" |
 echo "alias antlr4='java -jar /usr/local/lib/antlr-4.7.1-complete.jar'"  | sudo tee -a /etc/bash.bashrc
 echo "alias grun='java org.antlr.v4.gui.TestRig'" | sudo tee -a /etc/bash.bashrc
 
-# Java 9
-sudo add-apt-repository ppa:webupd8team/java -y
-sudo apt-get update
-sudo apt-get install oracle-java9-installer -y
+# Java 10
+sudo add-apt-repository ppa:linuxuprising/java -y
+sudo apt update
+sudo apt install oracle-java10-installer -y
 
 # Atom
 sudo add-apt-repository ppa:webupd8team/atom -y
@@ -63,8 +63,8 @@ sudo gem2.5 install gosu
 
 # Scala
 sudo apt-get remove scala-library scala
-sudo wget http://scala-lang.org/files/archive/scala-2.12.5.deb
-sudo dpkg -i scala-2.12.5.deb
+sudo wget http://scala-lang.org/files/archive/scala-2.12.6.deb
+sudo dpkg -i scala-2.12.6.deb
 sudo apt-get update
 sudo apt-get install scala
 
@@ -78,7 +78,7 @@ sudo apt-get install sbt
 sudo rm -Rf /opt/eclipse/
 sudo rm -Rf /usr/share/applications/eclipse.desktop
 sudo rm -Rf /home/aluno/Área\ de\ Trabalho/eclipse.desktop
-sudo wget -c http://eclipse.c3sl.ufpr.br/technology/epp/downloads/release/oxygen/R/eclipse-jee-oxygen-R-linux-gtk-x86_64.tar.gz -O eclipse.tar.gz
+sudo wget -c http://eclipse.c3sl.ufpr.br/technology/epp/downloads/release/oxygen/3a/eclipse-jee-oxygen-3a-linux-gtk-x86_64.tar.gz -O eclipse.tar.gz
 sudo tar -zxvf eclipse.tar.gz -C /opt/
 sudo rm eclipse.tar.gz
 sudo wget https://dl2.macupdate.com/images/icons128/11662.png -O /opt/eclipse/eclipse.png
