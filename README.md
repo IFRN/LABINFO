@@ -9,7 +9,7 @@ Configuração dos computadores dos laboratórios de Informática da DIATINF
 
 Software                                                    | TADS                              | TII   | TRC     | TMSI
 ---                                                         | ---                               | ---   | ---     | ---
-[Java JDK 9](/software/Java9.md)                            | *PC, PLP, SD, AC, AS, EDNL, APOO* |       |         |      
+[Java JDK 10](/software/Java10.md)                          | *PC, PLP, SD, AC, AS, EDNL, APOO* |       |         |      
 [Potigol](https://github.com/potigol/potigol)               |  *PC*                             |       |         |      
 [Python](/software/Python.md)                               |  *PC*                             |       | PC, PRC |      
 [Ruby](/software/Ruby.md)                                   |  *PC*                             |       |         |      
