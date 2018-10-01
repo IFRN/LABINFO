@@ -16,20 +16,23 @@ Software                                                    | TADS              
 [Scala](https://www.scala-lang.org/download/install.html)   | *PLP*                             |       |         |      
 [NodeJS](https://nodejs.org/en/)                            | *TSW*, *SO*                       | _POS_ |         |      
 
+## Banco de dados
+
 ## Editores
 
-Software                                      | TADS      | TII   | TRC | TMSI
----                                           | ---       | ---   | --- | ---
-[Atom](/software/Atom.md)                     | _PC, PLP_ | _DWA_ | PC, PRC |     
+Software                                             | TADS      | TII   | TRC | TMSI
+---                                                  | ---       | ---   | --- | ---
+[Atom](/software/Atom.md)                            | _PC, PLP_ | _DWA_ | PC, PRC |     
 [Eclipse Oxygen](http://ubuntuhandbook.org/index.php/2016/01/how-to-install-the-latest-eclipse-in-ubuntu-16-04-15-10/) | _PC, PLP, APOO_ | | |
 [JCEditor](https://github.com/cristian-henrique/JCEditor) | *PC* |    |  |
-[SublimeText3](/software/SublimeText3.md)     | WD        | _DWA_ |    |   
-VisualG                                       |           | _FLC_ |    |   
-DevPascal                                     |           | _FLC_ |    |   
-Visual Studio 2015 Community Update 3 (Full Install)   |    | _PEOO_, _PI_ |    |  
-Dev C++ 5.11                                  | PC        | _PEOO_ |    |  
-Code Blocks                                   | PC        |        |    |  
-Visual Studio 2012                            |           | _PSI_  |    |
+[SublimeText3](/software/SublimeText3.md)            | WD        | _DWA_ |    |   
+VisualG                                              |           | _FLC_ |    |   
+DevPascal                                            |           | _FLC_ |    |   
+Visual Studio 2015 Community Update 3 (Full Install) |    | _PEOO_, _PI_ |    |  
+Dev C++ 5.11                                         | PC        | _PEOO_ |    |  
+Code Blocks                                          | PC        |        |    |  
+Visual Studio 2012                                   |           | _PSI_  |    |
+[Visual Studio Code](/software/VisualStudioCode.md)  | SO        | POS    |    |
 
 ## Outros
 
@@ -51,4 +54,4 @@ PuTTY                                         |           | _ICS_  |    |
 Windows server 2012 R2                        |           | _ICS_, _PI_ |    |   
 [Git for Windows](https://git-scm.com/downloads)   |       | _PI_   |    |   
 Postman                                       |           | _POS_ |    |  
-[Docker](https://www.docker.com)              | SO, TSW   |        |    |    
+[Docker](https://www.docker.com)              | SO, TSW   | POS   |    |    
